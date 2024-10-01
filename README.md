@@ -13,15 +13,10 @@ There are three different ways to structure data namely:
 ## Life Cycle of Data Analysis
 
 -Ingest data
-
 -Transformation (also known as data cleansing)
-
 -Modeling
-
 -Visualization
-
 -Analysis
-
 -Presentation
 
 
