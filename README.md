@@ -12,7 +12,8 @@ There are three different ways to structure data namely:
 
 ## Life Cycle of Data Analysis
 
--Ingest data
+The data analysis process, often known referred to as data analysis cyle, consits of several steps that guide analysts from collecting raw data to making informed decisions. Each stage is crucial for tuning data into actionable insights
+-Data collection( also know as data ingestion)
 -Transformation (also known as data cleansing)
 -Modeling
 -Visualization
