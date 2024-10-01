@@ -9,7 +9,6 @@ There are three different ways to structure data namely:
 - Structured data (usually in tabular format)
 - Semi-structured data (not in tabular form but it can be transformed into table. It is usually in Jason and Xml format)
 - Unstructured data ( comes in media files)
-
 ## Life Cycle of Data Analysis
 
 The data analysis process, often known referred to as data analysis cyle, consits of several steps that guide analysts from collecting raw data to making informed decisions. Each stage is crucial for tuning data into actionable insights. These cycle include:
