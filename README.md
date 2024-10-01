@@ -11,6 +11,7 @@ There are three different ways to structure data namely:
 - Unstructured data ( comes in media files)
 
 ## Life Cycle of Data Analysis
+
 -Ingest data
 -Transformation (also known as data cleansing)
 -Modeling
