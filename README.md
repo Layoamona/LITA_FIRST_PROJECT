@@ -22,8 +22,9 @@ The data analysis process, often known referred to as data analysis cyle, consit
 
 ## Tools Used
 - Microsoft Excel  
-  - For Data Cleaning
-  - For Analysis
-  - For Visualiation
+  1. For Data Cleaning
+  2. For Analysis
+  3. For Visualiation
+     
 - SQL - Strutured Query Language for Quering Dta
 -  GitHub for Portfolio Building
