@@ -6,6 +6,16 @@ Data analysis is the processof inspecting, cleaning, transforming, modeling and 
 
 There are three different ways to structure data namely:
 
-- Structured data
-- Semi-structured data
-- Unstructured data
+- Structured data (usually in tabular format)
+- Semi-structured data (not in tabular form but it can be transformed into table. It is usually in Jason and Xml format)
+- Unstructured data ( comes in media files)
+
+## Life Cycle of Data Analysis
+-Ingest data
+-Transformation (also known as data cleansing)
+-Modeling
+-Visualization
+-Analysis
+-Presentation
+
+
