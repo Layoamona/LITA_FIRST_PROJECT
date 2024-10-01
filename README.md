@@ -13,11 +13,11 @@ There are three different ways to structure data namely:
 
 The data analysis process, often known referred to as data analysis cyle, consits of several steps that guide analysts from collecting raw data to making informed decisions. Each stage is crucial for tuning data into actionable insights. These cycle include:
 
--Data collection( also know as data ingestion)
--Transformation (also known as data cleansing)
--Modeling
--Visualization
--Analysis
--Presentation
+- Data collection( also know as data ingestion)
+- Transformation (also known as data cleansing)
+- Modeling
+- Visualization
+- Analysis
+- Presentation
 
 
