@@ -89,3 +89,10 @@ Syntax: =LEFT(text, num_chars)
 ### Data Extraction and Retrieval Based on some Instruction Given and with the Aid of the Text Functions
 
 ![Data Extraction and Retrieval](https://github.com/user-attachments/assets/6bc444e7-4baf-49da-a1de-0b8eef77cfcb)
+
+
+### Pivot Table
+This is a data summarizing tool. We used a pivot table to gain insights into revenue trends and sales performance across regions, and to calculate key metrics, such as total revenue by region and stores.
+
+
+![pivot table](https://github.com/user-attachments/assets/05214cb2-5b4b-416b-b659-c109ce63ed4f)
