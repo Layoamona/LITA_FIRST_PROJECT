@@ -137,10 +137,54 @@ values ( 'AB401', 'ayan', 'olakun', 'female', '1992-08-22', '2018-02-09'),
 ( 'AB260', 'deborah', 'justin', 'female','1982-10-09', '2018-02-09'),
 ( 'AB281', 'wale', 'olanipekun', 'male','1982-10-09', '2018-02-09')
 
+------ Create salary table -------
+CREATE TABLE Salary (
+salary_id int identity (1,1)not null,
+Staffid varchar (255),
+firstname varchar (255),
+lastname varchar (255),
+department nvarchar(max),
+salary decimal (10, 3)
+)
+
+select * from salary
+
+------ insert employee salaries --------
+insert into salary (staffid, FirstName, lastname, Department, Salary)
+values ( 'AB401', 'ayan', 'olakun', 'Information Tech.', 45000.45),
+( 'AB212', 'okorie', 'mercy','Account',500000.99999),
+( 'AB223', 'joshua', 'chukwuemeka', 'Human Resources',100560.9339999),
+( 'AB234', 'sanni', 'ibrahim', 'Sales and Marketing',845688.99),
+( 'AB254', 'mercy', 'olanipekun', 'Account',8889.999999),
+( 'AB249', 'johnson', 'mercy', 'Information Tech.',234000.90909090),
+( 'AB298', 'ayomide', 'halleluyah', 'Logistics', 678000.991999),
+( 'AB260', 'deborah', 'justin', 'Logistics',900099.00697969),
+( 'AB281', 'wale', 'olanipekun', 'Information Tech',873093.2344)
+
 ----delete sql command--
 
 delete from employee
+
 where staffid  = 'ab281'
 
 ```
 
+4. Queries and Analysis
+
+   We made use of Excel functions like MAX, SUM, COUNT to determine the highest, lowest, fourth-highest, and third-lowest salaries.
+
+```SQL
+
+SELECT SUM(Salary) AS TOTALSALARY FROM Salary
+
+SELECT AVG(Salary) AS AVERAGESALARY FROM Salary
+
+SELECT COUNT(Staffid) AS EmployeeCount FROM EMPLOYEE
+
+SELECT COUNT(Staffid) AS NumberOfEmployee FROM Salary
+
+Update Salary
+set salary = 7056999.9994
+where Staffid = 'AB401'
+
+```
