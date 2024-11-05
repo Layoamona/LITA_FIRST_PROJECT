@@ -37,7 +37,7 @@ The data analysis process, often known referred to as data analysis cyle, consit
   ## Table of Content 
   - Excel Components
     1. Data cleaning and organization
-    2. Data formatting
+    2. Data recovery and formatting
     3. Summary metrics calculations
     4. Pivot tables for analysis
   - SQL Components
@@ -63,3 +63,20 @@ The data analysis process, often known referred to as data analysis cyle, consit
 
 ### Cleaned Salary Data
 ![Cleaned Structured Salary Data](https://github.com/user-attachments/assets/b9aa717d-7620-457a-b53e-858c2e110ccf)
+
+### Data Recovery and Formatting
+ We were able to make use of some text functions functions in Excel like : LEFT, MID, RIGHT. These functions are used to manipulate and extract specific portions of text from a cell. Here is how each one works:
+
+- LEFT Function: Extracts a specified number of characters from the beginning (left side) of a text string.
+
+Syntax: =LEFT(text, num_chars)
+
+- RIGHT Function: Extracts a specified number of characters from the end (right side) of a text string.
+
+ Syntax: =RIGHT(text, num_chars)
+
+MID Function: Extracts characters from the middle of a text string, based on a specified starting position and number of characters.
+
+
+ Syntax: =MID(text, start_num, num_chars)
+
