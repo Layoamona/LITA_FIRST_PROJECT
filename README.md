@@ -48,6 +48,8 @@ The data analysis process, often known referred to as data analysis cyle, consit
     5. Queries and analysis
     6. Data importation and analysis
   - Power BI
+    1. Data cleaning
+    2. Data visualization
 
   ## Excel Components
   ### Data Cleaning and Organization
@@ -197,3 +199,10 @@ where Staffid = 'AB401'
    2. right click and click on tasks after which, you navigate to import flat file if file has been converted to Comma Separated Value File (csv)
    3. Select the location where your file was saved and import your data.
    4. Begin analysis.
+  
+## Power BI
+  Power BI is a business intelligence and data visualization tool developed by Microsoft that allows users to connect, transform, visualize, and share data insights in an interactive way. It is  commonly used for creating dynamic reports and dashboards that make data more accessible and actionable for businesses and organizations.
+
+### Uses of Power BI 
+
+  1. 
