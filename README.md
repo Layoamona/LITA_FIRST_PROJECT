@@ -119,6 +119,13 @@ primary key (staffid)
 
 Select staffid, firstname from Employee
 
+```
+
+3. Data Manipulation Operations
+    
+   They help modify database. Example of manipulative function include; 'insert', 'update' and 'delete'
+   
+``` SQL
 insert into Employee (staffid, firstname, secondname, gender,Date_of_Birth, hiredate)
 values ( 'AB401', 'ayan', 'olakun', 'female', '1992-08-22', '2018-02-09'),
 ( 'AB212', 'okorie', 'mercy', 'female','1988-10-09', '2018-10-09'),
@@ -130,4 +137,10 @@ values ( 'AB401', 'ayan', 'olakun', 'female', '1992-08-22', '2018-02-09'),
 ( 'AB260', 'deborah', 'justin', 'female','1982-10-09', '2018-02-09'),
 ( 'AB281', 'wale', 'olanipekun', 'male','1982-10-09', '2018-02-09')
 
+----delete sql command--
+
+delete from employee
+where staffid  = 'ab281'
+
 ```
+
