@@ -47,6 +47,7 @@ The data analysis process, often known referred to as data analysis cyle, consit
     4. Data manipulation operations
     5. Queries and analysis
     6. Data importation and analysis
+  - Power BI
 
   ## Excel Components
   ### Data Cleaning and Organization
@@ -188,3 +189,11 @@ set salary = 7056999.9994
 where Staffid = 'AB401'
 
 ```
+
+5. Data Importation and Analysis
+   We imported data from our excel into our SQL Studio and did some analysis.Steps to import data;
+
+   1. Navigate to the database you want to import data into
+   2. right click and click on tasks after which, you navigate to import flat file if file has been converted to Comma Separated Value File (csv)
+   3. Select the location where your file was saved and import your data.
+   4. Begin analysis.
