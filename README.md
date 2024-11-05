@@ -49,8 +49,17 @@ The data analysis process, often known referred to as data analysis cyle, consit
     6. Data importation and analysis
 
   ## Excel Components
-  # Data Cleaning and Organization
+  ### Data Cleaning and Organization
    Raw payroll data was imported into Excel, where it was meticulously cleaned and organized:
+   
    Separating Data into Columns: Ensured each data point (e.g., Names, Department, Salary) was placed in its respective column.
+   
    Removing Unnecessary Rows: Eliminated rows containing summaries or irrelevant information to maintain data integrity.
+
+
+    ![Uncleaned Salary data](https://github.com/user-attachments/assets/caf25c23-c081-497f-9c8f-f3f01fb602cd)
+
+
+
     
+    ![Cleaned Structured Salary Data](https://github.com/user-attachments/assets/df0623e0-5920-486b-b644-f09c3d18a8c4)
