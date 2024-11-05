@@ -28,3 +28,8 @@ The data analysis process, often known referred to as data analysis cyle, consit
      
 - SQL - Strutured Query Language for Quering Dta
 -  GitHub for Portfolio Building
+
+  In order to have an indept understanding of the above stated tools, we worked on some projects.
+
+  ## Project Overview
+  The project helps to collect and analyze sales data from different various companies, markests and stores. It is s a comprehensive project designed to manage and analyze employee records, salary details, and payment information efficiently. This system leverages both SQL for robust database management, Microsoft Excel and Power Bi for data cleaning, organization, and advanced analysis. The project demonstrates the integration of these tools to create a seamless workflow for handling HR and payroll data.
