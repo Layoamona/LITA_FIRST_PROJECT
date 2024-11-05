@@ -75,8 +75,17 @@ Syntax: =LEFT(text, num_chars)
 
  Syntax: =RIGHT(text, num_chars)
 
-MID Function: Extracts characters from the middle of a text string, based on a specified starting position and number of characters.
+- MID Function: Extracts characters from the middle of a text string, based on a specified starting position and number of characters.
 
 
  Syntax: =MID(text, start_num, num_chars)
 
+ 
+![Lost Records](https://github.com/user-attachments/assets/1682d5e4-a6f1-4154-9412-e773783f4124)
+
+
+
+
+### Data Extraction and Retrieval Based on some Instruction Given and with the Aid of the Text Functions
+
+![Data Extraction and Retrieval](https://github.com/user-attachments/assets/6bc444e7-4baf-49da-a1de-0b8eef77cfcb)
