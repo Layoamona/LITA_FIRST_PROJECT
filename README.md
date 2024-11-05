@@ -56,10 +56,10 @@ The data analysis process, often known referred to as data analysis cyle, consit
    
    Removing Unnecessary Rows: Eliminated rows containing summaries or irrelevant information to maintain data integrity.
 
+### Uncleaned Salary Data
+  
+![Uncleaned Salary data](https://github.com/user-attachments/assets/e22f1e5c-88b7-45f1-ad23-3b275caca099)
 
-    ![Uncleaned Salary data](https://github.com/user-attachments/assets/caf25c23-c081-497f-9c8f-f3f01fb602cd)
 
-
-
-    
-    ![Cleaned Structured Salary Data](https://github.com/user-attachments/assets/df0623e0-5920-486b-b644-f09c3d18a8c4)
+### Cleaned Salary Data
+![Cleaned Structured Salary Data](https://github.com/user-attachments/assets/b9aa717d-7620-457a-b53e-858c2e110ccf)
