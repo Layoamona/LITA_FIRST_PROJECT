@@ -32,4 +32,25 @@ The data analysis process, often known referred to as data analysis cyle, consit
   In order to have an indept understanding of the above stated tools, we worked on some projects.
 
   ## Project Overview
-  The project helps to collect and analyze sales data from different various companies, markests and stores. It is s a comprehensive project designed to manage and analyze employee records, salary details, and payment information efficiently. This system leverages both SQL for robust database management, Microsoft Excel and Power Bi for data cleaning, organization, and advanced analysis. The project demonstrates the integration of these tools to create a seamless workflow for handling HR and payroll data.
+  The project helps to collect and analyze sales data from different various companies, markests and stores. It is s a comprehensive project designed to manage and analyze employee records, salary details, and payment information efficiently. This system leverages both SQL for robust database management, Microsoft Excel and Power Bi for data cleaning, organization, and advanced analysis. The project demonstrates the integration of these tools to create a seamless workflow for handling HR and payroll data. The primary source of data used here is an open source data that can be freely downloaded from an open source online such as Kaggle or FRED or any other repository sites, with additional datasets created by LITA to support specific project needs and analysis.
+
+  ## Table of Content 
+  - Excel Components
+    1. Data cleaning and organization
+    2. Data formatting
+    3. Summary metrics calculations
+    4. Pivot tables for analysis
+  - SQL Components
+    1. Database creation
+    2. Table definition
+    3. Data insertion
+    4. Data manipulation operations
+    5. Queries and analysis
+    6. Data importation and analysis
+
+  ## Excel Components
+  # Data Cleaning and Organization
+   Raw payroll data was imported into Excel, where it was meticulously cleaned and organized:
+   Separating Data into Columns: Ensured each data point (e.g., Names, Department, Salary) was placed in its respective column.
+   Removing Unnecessary Rows: Eliminated rows containing summaries or irrelevant information to maintain data integrity.
+    
