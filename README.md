@@ -26,7 +26,7 @@ The data analysis process, often known referred to as data analysis cyle, consit
   2. For Analysis
   3. For Visualiation
      
-- SQL - Strutured Query Language for Quering Dta
+- SQL - Strutured Query Language for Quering Data
 -  GitHub for Portfolio Building
 -  Power BI
   1. For Data Cleaning
