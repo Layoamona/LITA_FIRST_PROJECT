@@ -28,6 +28,10 @@ The data analysis process, often known referred to as data analysis cyle, consit
      
 - SQL - Strutured Query Language for Quering Dta
 -  GitHub for Portfolio Building
+-  Power BI
+  1. For Data Cleaning
+  2. For Visualization
+  3. Interractive Dashboard
 
   In order to have an indept understanding of the above stated tools, we worked on some projects.
 
